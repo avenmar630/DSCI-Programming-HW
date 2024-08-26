@@ -3,36 +3,6 @@
 
 # # Programming HW1 (25 points total)
 # 
-# ## Module submission header
-# ### Submission preparation instructions 
-# _Completion of this header is mandatory, subject to a 2-point deduction to the assignment._ Only add plain text in the designated areas, i.e., replacing the relevant 'NA's. You must fill out all group member Names and Drexel email addresses in the below markdown list, under header __Module submission group__. It is required to fill out descriptive notes pertaining to any tutoring support received in the completion of this submission under the __Additional submission comments__ section at the bottom of the header. If no tutoring support was received, leave NA in place. You may as well list other optional comments pertaining to the submission at bottom. _Any distruption of this header's formatting will make your group liable to the 2-point deduction._
-# 
-# ### Module submission group
-# - Group member 1
-#     - Name: Avennia Maragh
-#     - Email: Ahr62@drexel.edu
-# - Group member 2
-#     - Name: NA
-#     - Email: NA
-# - Group member 3
-#     - Name: NA
-#     - Email: NA
-# - Group member 4
-#     - Name: NA
-#     - Email: NA
-# 
-# ### Additional submission comments
-# - Tutoring support received: NA
-# - Other (other): NA
-
-# ## Assignment details (15 points)
-# In this assignment, you are going to test whether a 4x4 matrix you entered is singular or not. I have provided you with most of the code and you just need to fill in. 
-# 
-# This should also give you the reduced echelon form of any given 4x4 matrix.
-
-# In[1]:
-
-
 import numpy as np
 
 
